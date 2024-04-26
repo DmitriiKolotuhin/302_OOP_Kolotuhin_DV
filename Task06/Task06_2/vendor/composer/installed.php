@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'migol/task06',
+        'name' => 'kolotuhin/task06',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '952531c03ac8ffa0af6aff185aace1ed41bd2964',
+        'reference' => 'f3aed4ce24ba6606852f1285b4ce378daa8ddc07',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'migol/task06' => array(
+        'kolotuhin/task06' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '952531c03ac8ffa0af6aff185aace1ed41bd2964',
+            'reference' => 'f3aed4ce24ba6606852f1285b4ce378daa8ddc07',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -101,9 +101,9 @@
             'dev_requirement' => false,
         ),
         'phpunit/phpunit' => array(
-            'pretty_version' => '11.1.1',
-            'version' => '11.1.1.0',
-            'reference' => '816cb6070af901c0548aa5f18f2132fd8a6e4ade',
+            'pretty_version' => '11.1.3',
+            'version' => '11.1.3.0',
+            'reference' => 'd475be032238173ca3b0a516f5cc291d174708ae',
             'type' => 'library',
             'install_path' => __DIR__ . '/../phpunit/phpunit',
             'aliases' => array(),

@@ -8,8 +8,8 @@ $baseDir = dirname($vendorDir);
 return array(
     '6124b4c8570aa390c21fafd04a26c69f' => $vendorDir . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
     'ec07570ca5a812141189b1fa81503674' => $vendorDir . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
-    '792a6cd80b3a6052d09ee02c49c728a5' => $baseDir . '/src/ManufacturerFilter.php',
-    'd05b0d25c49783f351d9517a172c167a' => $baseDir . '/src/MaxPriceFilter.php',
-    'abf179b8b11e4a3da9522dd27d3bfef1' => $baseDir . '/src/Product.php',
-    'acf4b13231b567f444fc06fee60b4eaa' => $baseDir . '/src/ProductCollection.php',
+    'c14032c65ed8716c2bba4b89c9281762' => $baseDir . '/src/ManufacturerFilter.php',
+    '233db9246baafd5212378af564d9703b' => $baseDir . '/src/MaxPriceFilter.php',
+    'd56933c5dd0abbbaf5e4dca68ba61712' => $baseDir . '/src/Product.php',
+    '85fc7608675db6f9bc9fb8cd0cef7230' => $baseDir . '/src/ProductCollection.php',
 );
