@@ -1,0 +1,18 @@
+{
+    "name": "kolotuhin/task06",
+    "autoload": {
+        "psr-4": {
+            "Tests\\": "tests/Unit/",
+            "App\\": "src/"
+        },
+        "files": ["src/ManufacturerFilter.php", "src/MaxPriceFilter.php", "src/Product.php", "src/ProductCollection.php"]
+    },
+    "authors": [
+        {
+            "name": "kolotuhin"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^11.0"
+    }
+}
